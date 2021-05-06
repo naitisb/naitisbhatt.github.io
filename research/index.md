@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-tags: [research, umang, bhatt, cambridge, cmu, graduate, explainability, interpretability, explainable AI]
+tags: [research, naiti, bhatt, scripps]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
